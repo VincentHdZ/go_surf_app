@@ -4,7 +4,7 @@ import 'package:flutter/widgets.dart';
 class SizeConfig {
   static double _screenWidth;
   static double _screenHeight;
-  static double _blockWidth = 0;
+  static double _blockWidth = 1;
   static double _blockHeight = 0;
 
   static double textMultiplier;
